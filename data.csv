@@ -1,2 +1,6 @@
-type,id,name,gender,person,description
+type,id,name,gender,person,description,fuerthwiki
 way,188324863,Dieter-Streng-Straße,M,Dieter Streng,
+way,1228478178,Dr.-Elisabeth-Hölzl-Straße,F,Else Hölzl,,https://www.fuerthwiki.de/wiki/index.php?title=Dr.-Elisabeth-H%C3%B6lzl-Stra%C3%9Fe
+way,1077919789,Dr.-Elisabeth-Hölzl-Straße,F,Else Hölzl,,https://www.fuerthwiki.de/wiki/index.php?title=Dr.-Elisabeth-H%C3%B6lzl-Stra%C3%9Fe
+way,1192477035,Dr.-Elisabeth-Hölzl-Straße,F,Else Hölzl,,https://www.fuerthwiki.de/wiki/index.php?title=Dr.-Elisabeth-H%C3%B6lzl-Stra%C3%9Fe
+way,146346096,Dr.-Frank-Straße,M,Jakob Frank,,https://www.fuerthwiki.de/wiki/index.php?title=Jakob_Frank
