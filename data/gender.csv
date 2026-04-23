@@ -5,6 +5,7 @@ name,source,gender,wikidata,type
 "Cadolzburger Straße",wikidata,-,Q522025,way
 "Coseler Straße",wikidata,-,Q364601,way
 "Cuxhavener Straße",wikidata,-,Q4197,way
+Dianastraße,wikidata,-,Q132543,way
 "Erlanger Straße",wikidata,-,Q3126,way
 "Flensburger Straße",wikidata,-,Q3798,way
 "Flexdorfer Straße",wikidata,-,Q18020172,way
@@ -26,6 +27,7 @@ Sudetenstraße,wikidata,-,Q194242,way
 "Veitsbronner Straße",wikidata,-,Q524234,way
 "Würzburger Straße",wikidata,-,Q2999,way
 "Zirndorfer Straße",wikidata,-,Q72977,way
+Dr.-Meyer-Spreckels-Straße,wikidata,F,Q94752890,way
 Albert-Einstein-Straße,wikidata,M,Q937,way
 Albert-Schweitzer-Straße,wikidata,M,Q49325,way
 Albrecht-Dürer-Straße,wikidata,M,Q5580,way
@@ -47,6 +49,31 @@ Charles-Lindbergh-Straße,wikidata,M,Q1618,way
 Conrad-Stutz-Weg,wikidata,M,Q59484408,way
 Coubertinstraße,wikidata,M,Q82984,way
 Daimlerstraße,wikidata,M,Q57098,way
+Damaschkestraße,wikidata,M,Q89439,way
+Daniel-Ley-Straße,wikidata,M,Q1161556,way
+Dieselstraße,wikidata,M,Q12674,way
+Dr.-Beeg-Straße,wikidata,M,Q1692849,way
+Dr.-David-Morgenstern-Straße,wikidata,M,Q1175746,way
+Dr.-Henry-Kissinger-Platz,wikidata,M,Q66107,way
+Dr.-Konrad-Adenauer-Straße,wikidata,M,Q2492,way
+Dr.-Mack-Straße,wikidata,M,Q1169418,way
+Dr.-Martin-Luther-Platz,wikidata,M,Q9554,way
+Dr.-Max-Grundig-Anlage,wikidata,M,Q77541,way
+Dr.-Rudolf-Benario-Straße,wikidata,M,Q1709563,way
+Dr.-Schumacher-Straße,wikidata,M,Q57465,way
+Dr.-Wild-Straße,wikidata,M,Q15842748,way
+Emil-Nolde-Straße,wikidata,M,Q152788,way
+Erich-Klabunde-Straße,wikidata,M,Q1352568,way
+Franz-Josef-Strauß-Platz,wikidata,M,Q44620,relation+way
+Franz-Marc-Straße,wikidata,M,Q44054,way
+Franz-Schubert-Straße,wikidata,M,Q7312,way
+Friedlandstraße,wikidata,M,Q153545,way
+Friedrich-Ebert-Straße,wikidata,M,Q2646,way
+Fritz-Erler-Straße,wikidata,M,Q71365,way
+Fritz-Gastreich-Straße,wikidata,M,Q107465868,way
+Fritz-Gräßler-Straße,wikidata,M,Q1466452,way
+Fritz-Griebel-Straße,wikidata,M,Q1466441,way
+Fröbelstraße,wikidata,M,Q76679,way
 Galileistraße,wikidata,M,Q307,way
 Gaußstraße,wikidata,M,Q6722,way
 Hans-Sachs-Straße,wikidata,M,Q19543,way
@@ -64,4 +91,20 @@ Richard-Wagner-Straße,wikidata,M,Q1511,way
 Schmerlerstraße,wikidata,M,Q1913372,way
 Thomas-Mann-Straße,wikidata,M,Q37030,way
 Voltastraße,wikidata,M,Q680,way
+Dr.-Elisabeth-Hölzl-Straße,csv,F,,way
 Dieter-Streng-Straße,csv,M,,way
+Dr.-Frank-Straße,csv,M,,way
+Eckartstraße,csv,M,,way
+Engelhardtstraße,csv,M,,way
+Erhard-Segitz-Straße,csv,M,,way
+Ernst-Goldmann-Straße,csv,M,,way
+Fenzelstraße,csv,M,,way
+Foerstermühle,csv,M,,way
+Franz-Ringel-Straße,csv,M,,way
+Friedrichstraße,csv,M,,way
+Fritz-Mailaender-Weg,csv,M,,way
+Fronmüllersteg,csv,M,,way
+Fronmüllerstraße,csv,M,,way
+Fuggerstraße,csv,M,,way
+Toni-Wolf-Straße,csv,M,,way
+Elfriede-und-Heinz-Bruder-Platz,csv,MF,,way
