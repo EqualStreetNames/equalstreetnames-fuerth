@@ -34,6 +34,7 @@ Zehentweg,wikidata,-,Q184664,way
 Bella-Rosenkranz-Straße,wikidata,F,Q107088940,way
 Dr.-Meyer-Spreckels-Straße,wikidata,F,Q94752890,way
 Karolinenstraße,wikidata,F,Q170195,way
+Luisenstraße,wikidata,F,Q156723,way
 Albert-Einstein-Straße,wikidata,M,Q937,way
 Albert-Schweitzer-Straße,wikidata,M,Q49325,way
 Albrecht-Dürer-Straße,wikidata,M,Q5580,way
@@ -138,10 +139,18 @@ Königswarterstraße,wikidata,M,Q2573843,way
 Kopernikusstraße,wikidata,M,Q619,way
 Kurt-Scherzer-Straße,wikidata,M,Q1794047,way
 Kutzerstraße,wikidata,M,Q2417909,way
+Landmannstraße,wikidata,M,Q2217709,way
+Langhansstraße,wikidata,M,Q1463853,way
 Lehmusstraße,wikidata,M,Q1460702,way
 Leibnizstraße,wikidata,M,Q9047,way
+Lessingstraße,wikidata,M,Q34628,way
 Liebigstraße,wikidata,M,Q16571,way
 Lilienthalstraße,wikidata,M,Q57162,way
+Lobitzstraße,wikidata,M,Q113266,way
+Lucas-Cranach-Straße,wikidata,M,Q191748,way
+Ludwig-Erhard-Straße,wikidata,M,Q2496,way
+Ludwig-Thoma-Straße,wikidata,M,Q45309,way
+Ludwigstraße,wikidata,M,Q44361,way
 Max-Planck-Straße,wikidata,M,Q9021,way
 Ohmstraße,wikidata,M,Q1585,way
 Otto-Seeling-Promenade,wikidata,M,Q95183796,way
@@ -164,7 +173,9 @@ Benditstraße,csv,+,,way
 Elfriede-und-Heinz-Bruder-Platz,csv,+,,way
 Grünerstraße,csv,+,,way
 Humbserstraße,csv,+,,way
+"Im Lottersgarten",csv,+,,way
 Krautheimerstraße,csv,+,,way
+Löwensohnstraße,csv,+,,way
 "Am Annaberg",csv,F,,way
 Amalienstraße,csv,F,,way
 Annastraße,csv,F,,way
@@ -176,6 +187,8 @@ Jakobinenstraße,csv,F,,way
 Katharinenstraße,csv,F,,way
 Käthe-Brand-Straße,csv,F,,way
 Kresserstraße,csv,F,,way
+Leupoldstraße,csv,F,,way
+Liesl-Kießling-Straße,csv,F,,way
 Albigstraße,csv,M,,way
 "Am Bischoffsacker",csv,M,,way
 "Am Karlberg",csv,M,,way
@@ -219,6 +232,7 @@ Königsplatz,csv,M,,way
 Königstraße,csv,M,,way
 Konrad-Kurz-Straße,csv,M,,way
 Külsheimstraße,csv,M,,way
+Ludwig-Quellen-Straße,csv,M,,way
 Toni-Wolf-Straße,csv,M,,way
 Zähstraße,csv,M,,way
 Zollesstraße,csv,M,,way
