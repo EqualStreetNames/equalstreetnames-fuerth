@@ -35,6 +35,10 @@ Bella-Rosenkranz-Straße,wikidata,F,Q107088940,way
 Dr.-Meyer-Spreckels-Straße,wikidata,F,Q94752890,way
 Karolinenstraße,wikidata,F,Q170195,way
 Luisenstraße,wikidata,F,Q156723,way
+Marie-Juchacz-Straße,wikidata,F,Q85820,way
+Mariensteig,wikidata,F,Q234237,way
+Marienstraße,wikidata,F,Q234237,way
+Melli-Beese-Straße,wikidata,F,Q97003,way
 Albert-Einstein-Straße,wikidata,M,Q937,way
 Albert-Schweitzer-Straße,wikidata,M,Q49325,way
 Albrecht-Dürer-Straße,wikidata,M,Q5580,way
@@ -151,7 +155,11 @@ Lucas-Cranach-Straße,wikidata,M,Q191748,way
 Ludwig-Erhard-Straße,wikidata,M,Q2496,way
 Ludwig-Thoma-Straße,wikidata,M,Q45309,way
 Ludwigstraße,wikidata,M,Q44361,way
+Martin-Behaim-Straße,wikidata,M,Q44838,way
+Max-Liebermann-Straße,wikidata,M,Q158062,way
 Max-Planck-Straße,wikidata,M,Q9021,way
+Maxstraße,wikidata,M,Q44530,way
+Meckstraße,wikidata,M,Q15902692,way
 Ohmstraße,wikidata,M,Q1585,way
 Otto-Seeling-Promenade,wikidata,M,Q95183796,way
 Otto-Wels-Straße,wikidata,M,Q61719,way
@@ -176,6 +184,7 @@ Humbserstraße,csv,+,,way
 "Im Lottersgarten",csv,+,,way
 Krautheimerstraße,csv,+,,way
 Löwensohnstraße,csv,+,,way
+Neumannstraße,csv,+,,way
 "Am Annaberg",csv,F,,way
 Amalienstraße,csv,F,,way
 Annastraße,csv,F,,way
@@ -189,6 +198,7 @@ Käthe-Brand-Straße,csv,F,,way
 Kresserstraße,csv,F,,way
 Leupoldstraße,csv,F,,way
 Liesl-Kießling-Straße,csv,F,,way
+Mathildenstraße,csv,F,,way
 Albigstraße,csv,M,,way
 "Am Bischoffsacker",csv,M,,way
 "Am Karlberg",csv,M,,way
@@ -233,6 +243,7 @@ Königstraße,csv,M,,way
 Konrad-Kurz-Straße,csv,M,,way
 Külsheimstraße,csv,M,,way
 Ludwig-Quellen-Straße,csv,M,,way
+Manfred-Roth-Straße,csv,M,,way
 Toni-Wolf-Straße,csv,M,,way
 Zähstraße,csv,M,,way
 Zollesstraße,csv,M,,way
