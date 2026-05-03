@@ -172,6 +172,11 @@ Peter-Vischer-Straße,wikidata,M,Q1800944,way
 Philipp-Reis-Straße,wikidata,M,Q77124,way
 Philippstraße,wikidata,M,Q121130,way
 Richard-Wagner-Straße,wikidata,M,Q1511,way
+Ritter-von-Aldebert-Straße,wikidata,M,Q75612078,way
+Robert-Koch-Straße,wikidata,M,Q37193,way
+Roseggerstraße,wikidata,M,Q93841,way
+Rudolf-Breitscheid-Straße,wikidata,M,Q70890,way
+Rudolf-Schiestl-Straße,wikidata,M,Q2173720,way
 Schmerlerstraße,wikidata,M,Q1913372,way
 Thomas-Mann-Straße,wikidata,M,Q37030,way
 Uhlandstraße,wikidata,M,Q61058,way
@@ -190,6 +195,7 @@ Humbserstraße,csv,+,,way
 Krautheimerstraße,csv,+,,way
 Löwensohnstraße,csv,+,,way
 Neumannstraße,csv,+,,way
+Romminggasse,csv,+,,way
 "Am Annaberg",csv,F,,way
 Amalienstraße,csv,F,,way
 Annastraße,csv,F,,way
@@ -249,6 +255,12 @@ Konrad-Kurz-Straße,csv,M,,way
 Külsheimstraße,csv,M,,way
 Ludwig-Quellen-Straße,csv,M,,way
 Manfred-Roth-Straße,csv,M,,way
+Peter-Hannweg-Straße,csv,M,,way
+Peter-Henlein-Straße,csv,M,,way
+Peter-Landauer-Radweg,csv,M,,way
+Ritterstraße,csv,M,,way
+Robert-Schumann-Straße,csv,M,,way
+Röllingersteg,csv,M,,way
 Toni-Wolf-Straße,csv,M,,way
 Zähstraße,csv,M,,way
 Zollesstraße,csv,M,,way
