@@ -39,6 +39,7 @@ Marie-Juchacz-Straße,wikidata,F,Q85820,way
 Mariensteig,wikidata,F,Q234237,way
 Marienstraße,wikidata,F,Q234237,way
 Melli-Beese-Straße,wikidata,F,Q97003,way
+Senta-Josephthal-Straße,wikidata,F,Q2904698,way
 Albert-Einstein-Straße,wikidata,M,Q937,way
 Albert-Schweitzer-Straße,wikidata,M,Q49325,way
 Albrecht-Dürer-Straße,wikidata,M,Q5580,way
@@ -178,6 +179,14 @@ Roseggerstraße,wikidata,M,Q93841,way
 Rudolf-Breitscheid-Straße,wikidata,M,Q70890,way
 Rudolf-Schiestl-Straße,wikidata,M,Q2173720,way
 Schmerlerstraße,wikidata,M,Q1913372,way
+Schuckertstraße,wikidata,M,Q95632,way
+Schulze-Delitzsch-Straße,wikidata,M,Q215961,way
+Schweickertstraße,wikidata,M,Q750898,way
+Sebastian-Kneipp-Weg,wikidata,M,Q45075,way
+Semmelweisstraße,wikidata,M,Q59736,way
+Soldnerstraße,wikidata,M,Q95792,way
+Steubenstraße,wikidata,M,Q213525,way
+Stresemannplatz,wikidata,M,Q103955,way
 Thomas-Mann-Straße,wikidata,M,Q37030,way
 Uhlandstraße,wikidata,M,Q61058,way
 Ullsteinstraße,wikidata,M,Q95921,way
@@ -196,6 +205,8 @@ Krautheimerstraße,csv,+,,way
 Löwensohnstraße,csv,+,,way
 Neumannstraße,csv,+,,way
 Romminggasse,csv,+,,way
+Scherbsgraben,csv,+,,way
+Schwarzmannstraße,csv,+,,way
 "Am Annaberg",csv,F,,way
 Amalienstraße,csv,F,,way
 Annastraße,csv,F,,way
@@ -210,6 +221,7 @@ Kresserstraße,csv,F,,way
 Leupoldstraße,csv,F,,way
 Liesl-Kießling-Straße,csv,F,,way
 Mathildenstraße,csv,F,,way
+Sophienstraße,csv,F,,way
 Albigstraße,csv,M,,way
 "Am Bischoffsacker",csv,M,,way
 "Am Karlberg",csv,M,,way
@@ -261,6 +273,9 @@ Peter-Landauer-Radweg,csv,M,,way
 Ritterstraße,csv,M,,way
 Robert-Schumann-Straße,csv,M,,way
 Röllingersteg,csv,M,,way
+Scherzerplatz,csv,M,,way
+Sigmund-Nathan-Straße,csv,M,,way
+Simonstraße,csv,M,,way
 Toni-Wolf-Straße,csv,M,,way
 Zähstraße,csv,M,,way
 Zollesstraße,csv,M,,way
