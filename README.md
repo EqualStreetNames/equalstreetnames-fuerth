@@ -8,4 +8,4 @@ in [OpenStreetMap](https://www.openstreetmap.org) resp. in the file data.csv, an
 <img width="950" height="855" alt="grafik" src="https://github.com/user-attachments/assets/2104f441-f4a2-45d3-892e-749bf9281776" />
 
 # Sources
-* [FürthWiki](https://www.fuerthwiki.de/wiki/index.php?title=EqualStreetNames) (Regio-Wiki of Fürth)
+* [FürthWiki](https://www.fuerthwiki.de/wiki/index.php) (Regio-Wiki of Fürth)
